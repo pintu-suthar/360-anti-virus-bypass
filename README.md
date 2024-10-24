@@ -1,5 +1,5 @@
 # 360-anti-virus-bypass
-> Ramesh New Patau Bss:
+
 Hello dear friends! I offer my Chinese colleagues an application that disables the 360.cn antivirus (360 Total Security)
 The application is in .exe format and works in this way: first you launch 360killer (admin rights requsted), then your payload
 My application stops active protection of 360.cn antivirus at the kernel level
